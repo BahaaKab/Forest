@@ -1,0 +1,1 @@
+This project was done by me and 2 other colleagues. Everythig about the project will be found inside the file: RandomForestAccelerator with a README file and a whole documentation explaining what we did
